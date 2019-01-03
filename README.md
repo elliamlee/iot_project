@@ -7,9 +7,9 @@ Having tried out some basic commands on your ARTIK developer board, you'll natur
 
 We'll begin by doing it manually through the Linux® command line, and then compare that to doing it programmatically using:
 
--Arduino IDE and its library for ARTIK
--Python
--C code.
+- Arduino IDE and its library for ARTIK
+- Python
+- C code.
 
 ## 2. Temperature and humidity check by using google cloud iot
 ## 3. Temperature and humidity check by using microsoft azure
