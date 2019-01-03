@@ -19,7 +19,7 @@ This script is set to pull two important pieces of data from environment variabl
 - The name of the IOT device sending this data
 
 ## Story
-<p align="center"><img src=https://user-images.githubusercontent.com/34092568/50639641-8a8c9400-0fa5-11e9-8878-8e36e17292f6.png></p>
+<p align="center"><img src=https://user-images.githubusercontent.com/34092568/50639641-8a8c9400-0fa5-11e9-8878-8e36e17292f6.png width="400"></p>
 
 
 ## Required results
