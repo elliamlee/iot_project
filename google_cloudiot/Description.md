@@ -26,11 +26,11 @@ After completing the steps, you will have a streaming data pipeline feeding a da
 ## Required results
 
 ### Temperature and Humdity on the monitor
-<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50632863-9029b000-0f8c-11e9-82b6-d4e887c9243c.png" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50642246-e8bd7500-0fad-11e9-9b6d-df09eeb20b62.png" width="400"></p>
 
 ### Send the data to Azure
-<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50632864-9029b000-0f8c-11e9-9ebc-a7e962fb6ae5.png" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50642247-e8bd7500-0fad-11e9-98d3-2eb2be8f64df.png" width="400"></p>
 
 ### Confirm the change of data on Azure
-<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50632866-9029b000-0f8c-11e9-806e-e5c8e20f85d0.png" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50642248-e8bd7500-0fad-11e9-80d3-f936a586c831.png" width="400"></p>
 
