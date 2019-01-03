@@ -6,3 +6,9 @@ C script logs temperature and humidity data from a DHT11 temperature and humidit
 The following is a list of the exact hardware I've tested this on:
 - RaspberryPi Zero
 - DHT11 3-pin sensor
+
+## Software Needed
+This was tested using the following software:
+
+- Raspbian 8.0 (jessie)
+- The Adafruit_Python_DHT Sensor Library
