@@ -1,0 +1,16 @@
+[
+  {
+    "name": "time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "name": "hum",
+    "type": "FLOAT"
+  },
+  {
+    "name": "temp",
+    "type": "FLOAT"
+  }
+]
+
+
