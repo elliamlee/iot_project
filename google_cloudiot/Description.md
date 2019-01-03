@@ -20,6 +20,9 @@ This script is set to pull two important pieces of data from environment variabl
 
 ## Story
 <p align="center"><img src="https://user-images.githubusercontent.com/34092568/50640820-5d41e500-0fa9-11e9-8908-27ad1c29c966.png"></p>
+
+A Raspberry Pi with a weather sensor will be used for the IoT device and several components of the Google Cloud Platform will form the data pipeline. Building out the Raspberry Pi, while beneficial, is an optional portion of this codelab and the streaming weather data can be replaced with a script.
+
 ## Required results
 
 ### Temperature and Humdity on the monitor
