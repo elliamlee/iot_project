@@ -21,7 +21,7 @@ This script is set to pull two important pieces of data from environment variabl
 ## Required results
 
 ### Temperature and Humdity on the monitor
-<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50632863-9029b000-0f8c-11e9-82b6-d4e887c9243c.png" width="300"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50632863-9029b000-0f8c-11e9-82b6-d4e887c9243c.png" width="400"></p>
 
 ### Send the data to Azure
 ![azure2](https://user-images.githubusercontent.com/34092568/50632864-9029b000-0f8c-11e9-9ebc-a7e962fb6ae5.png)
