@@ -15,8 +15,10 @@ We'll begin by doing it manually through the Linux® command line, and then comp
 The python script logs temperature and humidity data from a DHT11 temperature and humidity sensor via a RaspberryPi. it then pushes that information up to an endpoint.
 
 ## 3. Temperature and humidity check by using microsoft azure
-
+C script logs temperature and humidity data from a DHT11 temperature and humidity sensor via a RaspberryPi. it then pushes that information up to an endpoint. I am personally using Microsoft Azure Logic App for this functionality.
 
 ## 4. Temperature and humidity check by using samsung artik
+C script logs temperature and humidity data from a DHT11 temperature and humidity sensor via a Samsung ARTIK. it then pushes that information up to an endpoint.
+
 ## 5. Smart door knob
 
