@@ -28,11 +28,11 @@ This is a simple project that shows how to read temperature and humidity data fr
 ## Required results
 
 ### Temperature and Humdity on the monitor
-<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50632863-9029b000-0f8c-11e9-82b6-d4e887c9243c.png" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50639909-84e37e00-0fa6-11e9-9902-5b1082c3254b.png" width="400"></p>
 
 ### Send the data to ARTIK cloud
-<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50632864-9029b000-0f8c-11e9-9ebc-a7e962fb6ae5.png" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50639908-84e37e00-0fa6-11e9-9e2d-3314abdd8af9.png" width="400"></p>
 
 ### Confirm the change of data on ARTIK cloud
-<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50632866-9029b000-0f8c-11e9-806e-e5c8e20f85d0.png" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50639898-80b76080-0fa6-11e9-8444-08d368856e4a.jpg" width="400"></p>
 
