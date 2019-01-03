@@ -16,6 +16,7 @@ We'll begin by doing it manually through the Linux® command line, and then comp
 - 220 ohm resistor
 - Breadboard and connector wires
 
+## Results
 <p align="center">
 <img src="https://user-images.githubusercontent.com/34092568/50631555-14c5ff80-0f88-11e9-9410-defeb29ec2f9.png" weight="400" height = "400">
 <img src="https://user-images.githubusercontent.com/34092568/50631673-8e5ded80-0f88-11e9-8806-9ba4e29a777d.png" weight="400" height = "400">
