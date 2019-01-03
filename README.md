@@ -21,4 +21,7 @@ C script logs temperature and humidity data from a DHT11 temperature and humidit
 C script logs temperature and humidity data from a DHT11 temperature and humidity sensor via a Samsung ARTIK. it then pushes that information up to an endpoint.
 
 ## 5. Smart door knob
+Smart door knob provides weather condition to people. When people grab the door knob, it says today's weather condition. 
+We use RaspberryPi for end-to-end connection, AWS for cloud and Android for smartphone application.
+I'd developed the python script for RaspberryPi and the connection part with AWS.
 
