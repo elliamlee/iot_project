@@ -15,3 +15,5 @@ We'll begin by doing it manually through the Linux® command line, and then comp
 - LED
 - 220 ohm resistor
 - Breadboard and connector wires
+
+![artik](https://user-images.githubusercontent.com/34092568/50631555-14c5ff80-0f88-11e9-9410-defeb29ec2f9.png)
