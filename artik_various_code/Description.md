@@ -9,3 +9,9 @@ We'll begin by doing it manually through the Linux® command line, and then comp
 - Arduino IDE and its library for ARTIK
 - Python
 - C code.
+
+## Hardware Required
+- ARTIK 5, 7, or 10 development board
+- LED
+- 220 ohm resistor
+- Breadboard and connector wires
