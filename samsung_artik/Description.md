@@ -21,6 +21,9 @@ This script is set to pull two important pieces of data from environment variabl
 ## Story
 <p align="center"><img src=https://user-images.githubusercontent.com/34092568/50639641-8a8c9400-0fa5-11e9-8878-8e36e17292f6.png width="400"></p>
 
+Samsung ARTIK Cloud is an open data exchange platform for the Internet of Things, which allows us to collect, store, visualize and analyze data from any device.
+
+This is a simple project that shows how to read temperature and humidity data from sensor, then send data to ARTIK cloud. It's one more step to set up your own IoT system: monitoring temperature and humidity in your home via cloud server.
 
 ## Required results
 
