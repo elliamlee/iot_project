@@ -18,6 +18,10 @@ This script is set to pull two important pieces of data from environment variabl
 - The URL of the endpoint where the data is to be sent
 - The name of the IOT device sending this data
 
+## Story
+
+
+
 ## Required results
 
 ### Temperature and Humdity on the monitor
